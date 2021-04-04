@@ -7,5 +7,5 @@ called rotary.py
 The second is called rotary_irq_pico.py and is made by Martin Evans.
 
 Copy both files and put them in your lib folder.
-Both are needed for getting a r5otary encoder working
+Both are needed for getting a rotary encoder working
 on the Raspberry Pi Pico
